@@ -1,0 +1,15 @@
+{
+  "name": "AI ChatBot Assistant",
+  "short_name": "AI ChatBot",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0f1a",
+  "theme_color": "#00ffe5",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-robot-robotics-flaticons-lineal-color-flat-icons-3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
